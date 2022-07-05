@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.login-title {
+  text-align: center;
+}
+
+.nav-brand {
+  color: black;
+  font-size: 10;
+}
+
+.below-study-plan {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.caret-icons {
+  color: rgb(241, 0, 49);
+}
+
+.delete-icon {
+  color: rgb(241, 0, 49);
+}
+
+.add-icon {
+  color: rgb(0, 142, 86);
+}
+
+.info-icon {
+  color: rgb(37, 89, 255);
+}
+
+.info-alert-title {
+  color: rgb(241, 0, 49);
+}
+
+.popover-layout {
+  border-color: rgb(0, 204, 244);
+}
+
+.spinner-label {
+  color: rgb(241, 0, 49);
+  text-align: center;
+}
+
+.card-header {
+  font-weight: bold;
+}
+
+.above-courses-table {
+  margin-top: 3%;
+  margin-bottom: 2%;
+}
+
+.not-found-button {
+  margin-top: 10px;
+  width: 20%;
+  padding: 10px;
+  margin-left: 40%;
+}
