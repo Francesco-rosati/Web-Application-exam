@@ -1,6 +1,10 @@
 # Exam #1: "Piano degli studi"
 ## Student: s296247 ROSATI FRANCESCO 
 
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=Francesco-rosati_Esame-applicazioni-web-1) 
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Francesco-rosati_Esame-applicazioni-web-1&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Francesco-rosati_Esame-applicazioni-web-1) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Francesco-rosati_Esame-applicazioni-web-1&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Francesco-rosati_Esame-applicazioni-web-1) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Francesco-rosati_Esame-applicazioni-web-1&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Francesco-rosati_Esame-applicazioni-web-1) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Francesco-rosati_Esame-applicazioni-web-1&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Francesco-rosati_Esame-applicazioni-web-1) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Francesco-rosati_Esame-applicazioni-web-1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Francesco-rosati_Esame-applicazioni-web-1) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Francesco-rosati_Esame-applicazioni-web-1&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Francesco-rosati_Esame-applicazioni-web-1)
+
 ## React Client Application Routes
 
 - Route `/`: the route contains the Home component. Here the user (student) can see if not logged in, the complete list of courses and can create if logged in, his own study plan.
